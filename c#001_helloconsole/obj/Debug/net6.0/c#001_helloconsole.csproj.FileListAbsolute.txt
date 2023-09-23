@@ -1,0 +1,15 @@
+D:\geek_brains\c#\c#001_helloconsole\bin\Debug\net6.0\c#001_helloconsole.exe
+D:\geek_brains\c#\c#001_helloconsole\bin\Debug\net6.0\c#001_helloconsole.deps.json
+D:\geek_brains\c#\c#001_helloconsole\bin\Debug\net6.0\c#001_helloconsole.runtimeconfig.json
+D:\geek_brains\c#\c#001_helloconsole\bin\Debug\net6.0\c#001_helloconsole.dll
+D:\geek_brains\c#\c#001_helloconsole\bin\Debug\net6.0\c#001_helloconsole.pdb
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.csproj.AssemblyReference.cache
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.AssemblyInfoInputs.cache
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.AssemblyInfo.cs
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.csproj.CoreCompileInputs.cache
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.dll
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\refint\c#001_helloconsole.dll
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.pdb
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\c#001_helloconsole.genruntimeconfig.cache
+D:\geek_brains\c#\c#001_helloconsole\obj\Debug\net6.0\ref\c#001_helloconsole.dll
